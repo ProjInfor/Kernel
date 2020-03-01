@@ -7,11 +7,11 @@ A website that controls regroups twitter, facebook, instagram
 
 * **Billie Thompson** - *Initial work*
 * **Roxane Burri** - *Project Manager*
-* **Luka Lukic** - *Developer
-* **Salma Ennaji** - *Developer
-* **Nathan Cohen** - *Developer
-* **Benjamin Fischer** - *Developer
-* **Elham Amin Mansour** - *System Administrator
+* **Luka Lukic** - *Developer*
+* **Salma Ennaji** - *Developer*
+* **Nathan Cohen** - *Developer*
+* **Benjamin Fischer** - *Developer*
+* **Elham Amin Mansour** - *System Administrator*
 
 
 ## Getting Started
