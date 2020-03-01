@@ -3,8 +3,6 @@
 ## Description
 A website that controls regroups twitter, facebook, instagram
 
-
-
 ## Members- RandomPenguins
 
 * **Billie Thompson** - *Initial work*
