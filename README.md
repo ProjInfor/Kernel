@@ -1,6 +1,6 @@
 # Kernel Project
 Introduction:
-An website that controls regroups twitter, facebook, instagram
+An website that regroups twitter, facebook, instagram
 
 Members:
 
