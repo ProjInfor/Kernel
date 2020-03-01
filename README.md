@@ -5,7 +5,6 @@ A website that controls regroups twitter, facebook, instagram
 
 ## Members- RandomPenguins
 
-* **Billie Thompson** - *Initial work*
 * **Roxane Burri** - *Project Manager*
 * **Luka Lukic** - *Developer*
 * **Salma Ennaji** - *Developer*
